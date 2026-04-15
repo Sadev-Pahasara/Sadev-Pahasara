@@ -1,4 +1,4 @@
-# 💼 Sadev Pahasara Portfolio Website
+#Portfolio Website
 
 Hi, I'm Sadev Pahasara 👋  
 Welcome to my personal portfolio website! This project showcases my skills, projects, and creativity as a developer.
