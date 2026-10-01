@@ -6,11 +6,11 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101010,100:76F4FF&height=230&section=header&text=SADEV%20PAHASARA&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20UI%2FUX%20DESIGNER&descAlignY=59&descSize=17&animation=fadeIn" alt="Sadev Pahasara"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101010,100:76F4FF&height=230&section=header&text=SADEV%20PAHASARA&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20UI%2FUX%20DESIGNER%20%20%E2%80%A2%20%20GAME%20DEVELOPER&descAlignY=59&descSize=15&animation=fadeIn" alt="Sadev Pahasara"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=21&duration=2800&pause=900&color=76F4FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;UI%2FUX+Designer;Software+Engineering+Student;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Applications;Designing.+Developing.+Delivering." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=21&duration=2800&pause=900&color=76F4FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;UI%2FUX+Designer;Game+Developer;Software+Engineering+Student;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Applications;Designing.+Developing.+Delivering." alt="Typing SVG"/>
 
 <br><br>
 
@@ -22,7 +22,7 @@
 <img src="https://img.shields.io/badge/PROJECTS-161616?style=for-the-badge&logo=github&logoColor=76F4FF" alt="Projects"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=PROFILE%20VIEWS&style=for-the-badge&color=76F4FF" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=PROFILE%20VIEWS&color=76F4FF&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
@@ -34,35 +34,39 @@
 
 <!-- ========================================================= -->
 
-<!--                        INTRO                              -->
+<!--                         INTRO                             -->
 
 <!-- ========================================================= -->
 
 ## 👋 Hey, I'm Sadev
 
-I'm a **Full Stack Developer & UI/UX Designer from Sri Lanka 🇱🇰**, currently studying Software Engineering and building modern digital experiences across **web, mobile, and IoT**.
+I'm a **Full Stack Developer, UI/UX Designer & Game Developer from Sri Lanka 🇱🇰**, currently studying Software Engineering and building digital experiences across **web, mobile, games, and IoT**.
 
 I enjoy taking an idea from:
 
 ```text
-Concept
-   ↓
-Design
-   ↓
-Development
-   ↓
-Database
-   ↓
-Integration
-   ↓
-Testing
-   ↓
-Real Application
+                    💡 CONCEPT
+                        │
+                        ▼
+                    🎨 DESIGN
+                        │
+                        ▼
+                 💻 DEVELOPMENT
+                        │
+                        ▼
+                   🗄️ DATABASE
+                        │
+                        ▼
+                  🔗 INTEGRATION
+                        │
+                        ▼
+                    🧪 TESTING
+                        │
+                        ▼
+                  🚀 REAL PRODUCT
 ```
 
-My focus is not just making software **work**.
-
-It's about making software **look good, feel good, and make sense**.
+Whether it's a website, mobile application, game, or connected system, I enjoy working across the entire development process.
 
 ---
 
@@ -77,13 +81,14 @@ It's about making software **look good, feel good, and make sense**.
 
 * 💻 Full Stack Developer
 * 🎨 UI/UX Designer
+* 🎮 Game Developer
 * 🎓 Software Engineering Student
 * 🇱🇰 Based in Sri Lanka
 * 🧠 Constantly learning
 * 🛠️ Love building from scratch
 * 📱 Web & Mobile Development
-* 🗄️ Database-driven applications
-* 🔌 Exploring IoT systems
+* 🎮 Game Development
+* 🔌 Exploring IoT Systems
 
 </td>
 
@@ -96,9 +101,11 @@ Modern Interfaces
        +
 Clean Code
        +
-Scalable Systems
-       +
 Good UX
+       +
+Creative Experiences
+       +
+Strong Architecture
        +
 Real-World Problems
 ```
@@ -112,7 +119,7 @@ I enjoy understanding the **whole development process**, rather than focusing on
 
 ---
 
-# ⚡ What I'm Currently Doing
+# ⚡ Currently
 
 <div align="center">
 
@@ -141,21 +148,21 @@ Android Applications
 
 <td align="center" width="220">
 
-### 🎨
+### 🎮
 
-**DESIGNING**
+**CREATING**
 
-Better User Experiences
+Game Experiences
 
 </td>
 
 <td align="center" width="220">
 
-### 🚀
+### 🎨
 
-**LEARNING**
+**DESIGNING**
 
-Better Architecture
+Better Experiences
 
 </td>
 
@@ -192,6 +199,14 @@ Better Architecture
 
 </p>
 
+## 🎮 Game Development
+
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=unity,unreal" alt="Game Development"/>
+
+</p>
+
 ## 🗄️ Databases
 
 <p align="left">
@@ -204,7 +219,7 @@ Better Architecture
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=figma" alt="UI UX"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="UI / UX"/>
 
 </p>
 
@@ -255,6 +270,19 @@ Better Architecture
 
 <td width="50%" valign="top">
 
+### 🎮 Game Development
+
+* Gameplay systems
+* Game mechanics
+* Interactive experiences
+* Game UI systems
+* Level concepts
+* Creative prototypes
+
+</td>
+
+<td width="50%" valign="top">
+
 ### 🎨 UI / UX
 
 * Landing pages
@@ -266,6 +294,10 @@ Better Architecture
 
 </td>
 
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### 🔌 IoT & Systems
@@ -276,6 +308,19 @@ Better Architecture
 * Safety systems
 * Hardware/software integration
 * Embedded solutions
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🗄️ Software Systems
+
+* Database architecture
+* Authentication
+* Role-based access
+* Management systems
+* API integration
+* Application workflows
 
 </td>
 
@@ -388,35 +433,25 @@ A mobile resort experience for browsing rooms, making bookings, viewing services
 
 > **Great software isn't only about functionality. It's about experience.**
 
-My design process:
+My approach:
 
 ```text
-             💡 IDEA
-                │
-                ▼
-        ┌───────────────┐
-        │    RESEARCH   │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    UI / UX    │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │  DEVELOPMENT  │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │    TESTING    │
-        └───────┬───────┘
-                │
-                ▼
-        ┌───────────────┐
-        │     SHIP      │
-        └───────────────┘
+              💡 IDEA
+                 │
+                 ▼
+          🔎 RESEARCH
+                 │
+                 ▼
+          🎨 UI / UX
+                 │
+                 ▼
+         💻 DEVELOPMENT
+                 │
+                 ▼
+           🧪 TESTING
+                 │
+                 ▼
+            🚀 SHIP
 ```
 
 ### ✦ Design Principles
@@ -428,6 +463,7 @@ Interactive
 Accessible
 Consistent
 Purposeful
+Memorable
 ```
 
 I especially enjoy combining **clean interfaces with subtle motion**, rather than adding animation simply for decoration.
@@ -484,7 +520,7 @@ I especially enjoy combining **clean interfaces with subtle motion**, rather tha
                           │
              ┌────────────┼────────────┐
              ▼            ▼            ▼
-          🚀 ADVANCED   🔌 IoT       🗄️ SYSTEMS
+          🚀 ADVANCED   🎮 GAMES      🔌 IoT
              │            │            │
              └────────────┼────────────┘
                           │
@@ -535,6 +571,20 @@ Mobile UI/UX
 
 <td align="center" width="25%">
 
+### 🎮
+
+**GAMES**
+
+Gameplay Systems
+
+Game Mechanics
+
+Interactive Worlds
+
+</td>
+
+<td align="center" width="25%">
+
 ### 🎨
 
 **DESIGN**
@@ -547,20 +597,6 @@ Animations
 
 </td>
 
-<td align="center" width="25%">
-
-### ⚙️
-
-**SYSTEMS**
-
-Databases
-
-Role-Based Apps
-
-IoT Solutions
-
-</td>
-
 </tr>
 </table>
 
@@ -568,23 +604,29 @@ IoT Solutions
 
 # 🌱 Always Learning
 
+<div align="center">
+
 ```text
-┌────────────────────────────────────────────────────────┐
-│                                                        │
-│  💻 Better Software Architecture                       │
-│                                                        │
-│  🎨 Advanced UI / UX                                   │
-│                                                        │
-│  ⚙️ Scalable Application Development                   │
-│                                                        │
-│  🗄️ Database Design                                    │
-│                                                        │
-│  🔌 IoT & Hardware Integration                         │
-│                                                        │
-│  🚀 Modern Development Practices                       │
-│                                                        │
-└────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────┐
+│                                                    │
+│  💻 Better Software Architecture                  │
+│                                                    │
+│  🎨 Advanced UI / UX                              │
+│                                                    │
+│  🎮 Game Development                              │
+│                                                    │
+│  ⚙️ Scalable Application Development             │
+│                                                    │
+│  🗄️ Database Design                              │
+│                                                    │
+│  🔌 IoT & Hardware Integration                    │
+│                                                    │
+│  🚀 Modern Development Practices                  │
+│                                                    │
+└────────────────────────────────────────────────────┘
 ```
+
+</div>
 
 ---
 
@@ -610,7 +652,7 @@ IoT Solutions
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=18&duration=3000&pause=900&color=76F4FF&center=true&vCenter=true&width=650&lines=Design.+Develop.+Deploy.;Ideas+deserve+great+execution.;Always+learning.+Always+building.;Let's+build+something+meaningful." alt="Closing Message"/>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=18&duration=3000&pause=900&color=76F4FF&center=true&vCenter=true&width=700&lines=Design.+Develop.+Create.;Ideas+deserve+great+execution.;Always+learning.+Always+building.;Let's+build+something+meaningful." alt="Closing Message"/>
 
 </div>
 
@@ -620,7 +662,7 @@ IoT Solutions
 
 ### ✦ SADEV PAHASARA ✦
 
-**Full Stack Developer • UI/UX Designer • Software Engineering Student**
+**Full Stack Developer • UI/UX Designer • Game Developer**
 
 <br>
 
