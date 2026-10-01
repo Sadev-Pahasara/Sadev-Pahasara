@@ -6,19 +6,19 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=22&duration=3000&pause=1000&color=76F4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Software+Engineering+Student;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Applications" />
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=22&duration=3000&pause=1000&color=76F4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Software+Engineering+Student;Game+Developer;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Applications" alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/Sadev-Pahasara">
-<img src="https://img.shields.io/github/followers/Sadev-Pahasara?label=Followers&style=for-the-badge&logo=github&color=181717" />
+<img src="https://img.shields.io/github/followers/Sadev-Pahasara?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
 </a>
 
 <a href="https://github.com/Sadev-Pahasara?tab=repositories">
-<img src="https://img.shields.io/github/stars/Sadev-Pahasara?label=Stars&style=for-the-badge&logo=github&color=yellow" />
+<img src="https://img.shields.io/github/stars/Sadev-Pahasara?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=PROFILE%20VIEWS&style=for-the-badge&color=76f4ff" />
+<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=PROFILE%20VIEWS&style=for-the-badge&color=76f4ff" alt="Profile Views"/>
 
 </div>
 
@@ -32,15 +32,26 @@ I'm a **Full Stack Developer and UI/UX Designer from Sri Lanka 🇱🇰**, passi
 
 I enjoy working across the entire development process — from designing interfaces in **Figma**, building responsive front-end experiences, developing backend systems, designing databases, and turning ideas into complete applications.
 
-I'm currently focused on improving my software engineering skills and building projects that combine **clean design + solid functionality + real-world problem solving**.
+I'm currently focused on improving my software engineering skills and building projects that combine:
+
+```text
+Clean Design
+     +
+Strong Development
+     +
+Good User Experience
+     +
+Real-World Problem Solving
+```
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 
 <table>
 <tr>
-<td width="50%">
+
+<td width="50%" valign="top">
 
 ### 🚀 Who I Am
 
@@ -55,27 +66,30 @@ I'm currently focused on improving my software engineering skills and building p
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎯 What I Believe
+### 🎯 My Focus
 
 ```text
-Good Design
-     ↓
-Good User Experience
-     ↓
-Clean Code
-     ↓
-Strong Architecture
-     ↓
-Real-World Solution
+UI / UX
+   ↓
+Frontend
+   ↓
+Backend
+   ↓
+Database
+   ↓
+Integration
+   ↓
+Testing
+   ↓
+Deployment
 ```
 
-I don't just want applications to **work**.
-
-I want them to feel **good to use**.
+I enjoy understanding the **whole development process**, not just one part of it.
 
 </td>
+
 </tr>
 </table>
 
@@ -109,7 +123,7 @@ I want them to feel **good to use**.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,cs,php" />
+<img src="https://skillicons.dev/icons?i=html,css,js,java,cpp,cs,php" alt="Programming Languages"/>
 
 </p>
 
@@ -117,7 +131,7 @@ I want them to feel **good to use**.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet" alt="Web Development"/>
 
 </p>
 
@@ -125,7 +139,7 @@ I want them to feel **good to use**.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=androidstudio,java" />
+<img src="https://skillicons.dev/icons?i=androidstudio,java" alt="Mobile Development"/>
 
 </p>
 
@@ -133,7 +147,7 @@ I want them to feel **good to use**.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" alt="Databases"/>
 
 </p>
 
@@ -141,7 +155,7 @@ I want them to feel **good to use**.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma" alt="UI UX Design"/>
 
 </p>
 
@@ -149,23 +163,56 @@ I want them to feel **good to use**.
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino" alt="Development Tools"/>
 
 </p>
 
 ---
 
-# 🧩 My Development Areas
+# 🧩 What I Work With
 
-| Area                  | What I Work With                             |
-| --------------------- | -------------------------------------------- |
-| 🌐 Web Development    | HTML, CSS, JavaScript, ASP.NET, Node.js      |
-| 📱 Mobile Development | Android Studio, Java, SQLite                 |
-| 🎨 UI/UX              | Figma, Responsive Design, Interaction Design |
-| 🗄️ Database          | MySQL, SQLite, LocalDB                       |
-| ⚙️ Backend            | C#, .NET, Node.js                            |
-| 🔌 IoT                | ESP32, Sensors, Arduino                      |
-| 🧪 Development        | Git, GitHub, VS Code, Visual Studio          |
+<table>
+<tr>
+<th>Area</th>
+<th>Technologies & Skills</th>
+</tr>
+
+<tr>
+<td>🌐 Web Development</td>
+<td>HTML, CSS, JavaScript, ASP.NET, Node.js</td>
+</tr>
+
+<tr>
+<td>📱 Mobile Development</td>
+<td>Android Studio, Java, SQLite</td>
+</tr>
+
+<tr>
+<td>🎨 UI/UX</td>
+<td>Figma, Responsive Design, Interaction Design</td>
+</tr>
+
+<tr>
+<td>🗄️ Database</td>
+<td>MySQL, SQLite, LocalDB</td>
+</tr>
+
+<tr>
+<td>⚙️ Backend</td>
+<td>C#, .NET, Node.js</td>
+</tr>
+
+<tr>
+<td>🔌 IoT</td>
+<td>ESP32, Sensors, Arduino</td>
+</tr>
+
+<tr>
+<td>🧪 Development</td>
+<td>Git, GitHub, VS Code, Visual Studio</td>
+</tr>
+
+</table>
 
 ---
 
@@ -188,11 +235,13 @@ A smart wearable safety solution designed to improve industrial worker safety th
 * 📱 Android mobile application
 * 🔌 ESP32-based hardware
 
-**Tech:** `Java` `Android` `ESP32` `Arduino` `SQLite` `IoT`
+**Tech Stack**
+
+`Java` `Android Studio` `ESP32` `Arduino` `SQLite` `IoT`
 
 ---
 
-## 🏨 Aurelia Hospital Management System
+## 🏨 Aurelia — Hospital Management System
 
 > **Modern digital hospital management platform**
 
@@ -208,7 +257,9 @@ A web-based hospital management system designed to bring multiple hospital servi
 * 🗄️ Database-driven architecture
 * 🎨 Modern medical UI/UX
 
-**Tech:** `HTML` `CSS` `JavaScript` `C#` `ASP.NET` `Database`
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `C#` `ASP.NET` `Database`
 
 ---
 
@@ -222,17 +273,22 @@ A complete business management application designed for a blanket manufacturing 
 
 ```text
 Manufacturer
-      ↓
+      │
+      ▼
 Distributor
-      ↓
+      │
+      ▼
 Seller
-      ↓
+      │
+      ▼
 Customer
 ```
 
 The system manages inventory, orders, restocking, users, and role-based workflows.
 
-**Tech:** `ASP.NET` `C#` `Entity Framework` `SQL` `LocalDB`
+**Tech Stack**
+
+`ASP.NET` `C#` `Entity Framework` `SQL` `LocalDB`
 
 ---
 
@@ -252,55 +308,57 @@ A mobile application designed for hotel/resort customers to explore rooms, make 
 * 👤 Profile management
 * 🔐 Authentication
 
-**Tech:** `Java` `Android Studio` `SQLite` `Material Design`
+**Tech Stack**
+
+`Java` `Android Studio` `SQLite` `Material Design`
 
 ---
 
-# 🎨 Design Philosophy
+# 🎨 My Design Philosophy
 
 I believe great software isn't only about functionality.
 
 It's about **how people experience it**.
 
 ```text
-             IDEA
-              │
-              ▼
-        ┌─────────────┐
-        │   RESEARCH  │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   UI / UX   │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │ DEVELOPMENT │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   TESTING   │
-        └──────┬──────┘
-               │
-               ▼
-        ┌─────────────┐
-        │   PRODUCT   │
-        └─────────────┘
+              💡 IDEA
+                │
+                ▼
+        ┌───────────────┐
+        │    RESEARCH   │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    UI / UX    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │  DEVELOPMENT  │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    TESTING    │
+        └───────┬───────┘
+                │
+                ▼
+        ┌───────────────┐
+        │    PRODUCT    │
+        └───────────────┘
 ```
 
-### ✨ My design priorities
+### ✨ Design Priorities
 
 * Minimal but impactful interfaces
 * Responsive layouts
 * Smooth interactions
 * Strong visual hierarchy
-* Accessible user experiences
 * Consistent typography
 * Meaningful animations
 * Clean component structure
+* User-focused experiences
 
 ---
 
@@ -308,39 +366,63 @@ It's about **how people experience it**.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sadev-Pahasara&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sadev-Pahasara&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadev-Pahasara&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180"/>
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Sadev-Pahasara&theme=transparent&hide_border=true&mode=weekly" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadev-Pahasara&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180" alt="Top Languages"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Activity
+# 🔥 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sadev-Pahasara&bg_color=00000000&color=76f4ff&line=76f4ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+<table>
+<tr>
 
-</div>
+<td align="center" width="220">
 
----
+<h2>300+</h2>
 
-# 🐍 My Contribution Snake
+<b>Commits</b>
 
-<div align="center">
+</td>
 
-<img src="https://raw.githubusercontent.com/Sadev-Pahasara/Sadev-Pahasara/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+<td align="center" width="220">
+
+<h2>175+</h2>
+
+<b>Contributions</b>
+
+<br>
+
+<sub>Last Year</sub>
+
+</td>
+
+<td align="center" width="220">
+
+<h2>🚀</h2>
+
+<b>Projects</b>
+
+</td>
+
+<td align="center" width="220">
+
+<h2>🇱🇰</h2>
+
+<b>Sri Lanka</b>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Sadev-Pahasara&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak"/>
 
 </div>
 
@@ -350,7 +432,103 @@ It's about **how people experience it**.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Sadev-Pahasara&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%"/>
+<table>
+<tr>
+
+<td align="center">
+
+### 💻
+
+**300+**
+
+Commits
+
+</td>
+
+<td align="center">
+
+### 📈
+
+**175+**
+
+Contributions
+
+</td>
+
+<td align="center">
+
+### 🛠️
+
+**Multiple**
+
+Projects
+
+</td>
+
+<td align="center">
+
+### 🌱
+
+**Always**
+
+Learning
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 📌 Development Journey
+
+```text
+              2024
+                │
+                ▼
+        🌱 Started Building
+                │
+                ▼
+              2025
+                │
+                ▼
+        💻 Full Stack Projects
+                │
+                ▼
+              2026
+                │
+                ▼
+        🚀 Advanced Projects
+                │
+                ▼
+             NEXT...
+                │
+                ▼
+        🌎 Build Something
+           Meaningful
+```
+
+---
+
+# 💡 Things I Enjoy Building
+
+<div align="center">
+
+|     💻 Web Apps    |    📱 Mobile Apps    |
+| :----------------: | :------------------: |
+|   Modern Websites  | Android Applications |
+|  Business Systems  |    Booking Systems   |
+| Management Systems |     Mobile UI/UX     |
+| Portfolio Websites |  SQLite Applications |
+
+|        🎨 UI/UX        |        ⚙️ Systems       |
+| :--------------------: | :---------------------: |
+|      Landing Pages     |     Database Systems    |
+|  Responsive Interfaces |    Role-Based Systems   |
+|       Animations       |      IoT Solutions      |
+| Interactive Components | Full Stack Applications |
 
 </div>
 
@@ -361,11 +539,17 @@ It's about **how people experience it**.
 <div align="center">
 
 <a href="https://github.com/Sadev-Pahasara">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+
 </a>
 
+ 
+
 <a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
 </a>
 
 </div>
@@ -374,13 +558,7 @@ It's about **how people experience it**.
 
 <div align="center">
 
-### 💬 Have an idea?
-
-**Let's turn it into something real.**
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=18&duration=3000&pause=1000&color=76F4FF&center=true&vCenter=true&width=600&lines=Let's+build+something+legendary.;Design.+Develop.+Deploy.;Ideas+deserve+great+execution." />
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=18&duration=3000&pause=1000&color=76F4FF&center=true&vCenter=true&width=650&lines=Let's+build+something+legendary.;Design.+Develop.+Deploy.;Ideas+deserve+great+execution.;Always+learning.+Always+building." alt="Let's Build"/>
 
 </div>
 
@@ -390,11 +568,13 @@ It's about **how people experience it**.
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=TOTAL%20PROFILE%20VIEWS&color=76f4ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=TOTAL%20PROFILE%20VIEWS&color=76f4ff&style=for-the-badge" alt="Total Profile Views"/>
 
 <br><br>
 
-**Thanks for stopping by! 🚀**
+### Thanks for visiting my profile! 🚀
+
+<sub>Feel free to explore my repositories and projects.</sub>
 
 </div>
 
@@ -402,6 +582,12 @@ It's about **how people experience it**.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:76f4ff,50:161616,100:0f0f0f&height=120&section=footer" width="100%"/>
+### ✦ Sadev Pahasara ✦
+
+**Full Stack Developer • UI/UX Designer • Software Engineering Student**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:76f4ff,50:161616,100:0f0f0f&height=120&section=footer" width="100%" alt="Footer"/>
 
 </div>
