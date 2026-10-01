@@ -1,48 +1,68 @@
-<!-- ======================= HEADER ======================= -->
+<!-- ========================================================= -->
+
+<!--                         HERO                              -->
+
+<!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:161616,100:76f4ff&height=220&section=header&text=SADEV%20PAHASARA&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20UI%2FUX%20Designer&descAlignY=58&descSize=18" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:101010,100:76F4FF&height=230&section=header&text=SADEV%20PAHASARA&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20UI%2FUX%20DESIGNER&descAlignY=59&descSize=17&animation=fadeIn" alt="Sadev Pahasara"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=22&duration=3000&pause=1000&color=76F4FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;UI%2FUX+Designer;Software+Engineering+Student;Game+Developer;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Applications" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=21&duration=2800&pause=900&color=76F4FF&center=true&vCenter=true&width=720&lines=Full+Stack+Developer;UI%2FUX+Designer;Software+Engineering+Student;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Applications;Designing.+Developing.+Delivering." alt="Typing SVG"/>
 
 <br><br>
 
 <a href="https://github.com/Sadev-Pahasara">
-<img src="https://img.shields.io/github/followers/Sadev-Pahasara?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub Followers"/>
+<img src="https://img.shields.io/badge/GITHUB-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <a href="https://github.com/Sadev-Pahasara?tab=repositories">
-<img src="https://img.shields.io/github/stars/Sadev-Pahasara?label=Stars&style=for-the-badge&logo=github&color=yellow" alt="GitHub Stars"/>
+<img src="https://img.shields.io/badge/PROJECTS-161616?style=for-the-badge&logo=github&logoColor=76F4FF" alt="Projects"/>
 </a>
 
-<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=PROFILE%20VIEWS&style=for-the-badge&color=76f4ff" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=PROFILE%20VIEWS&style=for-the-badge&color=76F4FF" alt="Profile Views"/>
+
+<br><br>
+
+> **Design it. Build it. Make it memorable.**
 
 </div>
 
 ---
 
-# 👋 Hey, I'm Sadev!
+<!-- ========================================================= -->
 
-> **"Design it. Build it. Make it memorable."**
+<!--                        INTRO                              -->
 
-I'm a **Full Stack Developer and UI/UX Designer from Sri Lanka 🇱🇰**, passionate about creating modern, responsive, and meaningful digital experiences.
+<!-- ========================================================= -->
 
-I enjoy working across the entire development process — from designing interfaces in **Figma**, building responsive front-end experiences, developing backend systems, designing databases, and turning ideas into complete applications.
+## 👋 Hey, I'm Sadev
 
-I'm currently focused on improving my software engineering skills and building projects that combine:
+I'm a **Full Stack Developer & UI/UX Designer from Sri Lanka 🇱🇰**, currently studying Software Engineering and building modern digital experiences across **web, mobile, and IoT**.
+
+I enjoy taking an idea from:
 
 ```text
-Clean Design
-     +
-Strong Development
-     +
-Good User Experience
-     +
-Real-World Problem Solving
+Concept
+   ↓
+Design
+   ↓
+Development
+   ↓
+Database
+   ↓
+Integration
+   ↓
+Testing
+   ↓
+Real Application
 ```
+
+My focus is not just making software **work**.
+
+It's about making software **look good, feel good, and make sense**.
 
 ---
 
@@ -53,40 +73,37 @@ Real-World Problem Solving
 
 <td width="50%" valign="top">
 
-### 🚀 Who I Am
+### ⚡ Who I Am
 
 * 💻 Full Stack Developer
 * 🎨 UI/UX Designer
 * 🎓 Software Engineering Student
 * 🇱🇰 Based in Sri Lanka
-* 🧠 Always learning something new
-* 🛠️ Love building projects from scratch
-* 📱 Interested in Web & Mobile Development
-* 🗄️ Interested in Database-driven applications
+* 🧠 Constantly learning
+* 🛠️ Love building from scratch
+* 📱 Web & Mobile Development
+* 🗄️ Database-driven applications
+* 🔌 Exploring IoT systems
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🎯 My Focus
+### 🎯 What I Focus On
 
 ```text
-UI / UX
-   ↓
-Frontend
-   ↓
-Backend
-   ↓
-Database
-   ↓
-Integration
-   ↓
-Testing
-   ↓
-Deployment
+Modern Interfaces
+       +
+Clean Code
+       +
+Scalable Systems
+       +
+Good UX
+       +
+Real-World Problems
 ```
 
-I enjoy understanding the **whole development process**, not just one part of it.
+I enjoy understanding the **whole development process**, rather than focusing on only one layer of an application.
 
 </td>
 
@@ -97,29 +114,61 @@ I enjoy understanding the **whole development process**, not just one part of it
 
 # ⚡ What I'm Currently Doing
 
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│  💻 Building modern web applications               │
-│                                                     │
-│  📱 Developing Android applications                 │
-│                                                     │
-│  🎨 Improving UI/UX design skills                   │
-│                                                     │
-│  🗄️ Working with relational databases              │
-│                                                     │
-│  ⚙️ Learning better software architecture           │
-│                                                     │
-│  🚀 Building projects for my developer portfolio    │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="220">
+
+### 💻
+
+**BUILDING**
+
+Modern Web Applications
+
+</td>
+
+<td align="center" width="220">
+
+### 📱
+
+**DEVELOPING**
+
+Android Applications
+
+</td>
+
+<td align="center" width="220">
+
+### 🎨
+
+**DESIGNING**
+
+Better User Experiences
+
+</td>
+
+<td align="center" width="220">
+
+### 🚀
+
+**LEARNING**
+
+Better Architecture
+
+</td>
+
+</tr>
+</table>
+
+</div>
 
 ---
 
-# 🛠️ My Tech Arsenal
+# 🛠️ Tech Arsenal
 
-### 💻 Programming Languages
+## 💻 Programming Languages
 
 <p align="left">
 
@@ -127,7 +176,7 @@ I enjoy understanding the **whole development process**, not just one part of it
 
 </p>
 
-### 🌐 Web Development
+## 🌐 Web Development
 
 <p align="left">
 
@@ -135,7 +184,7 @@ I enjoy understanding the **whole development process**, not just one part of it
 
 </p>
 
-### 📱 Mobile Development
+## 📱 Mobile Development
 
 <p align="left">
 
@@ -143,7 +192,7 @@ I enjoy understanding the **whole development process**, not just one part of it
 
 </p>
 
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p align="left">
 
@@ -151,177 +200,198 @@ I enjoy understanding the **whole development process**, not just one part of it
 
 </p>
 
-### 🎨 UI/UX & Design
+## 🎨 UI / UX
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=figma" alt="UI UX Design"/>
+<img src="https://skillicons.dev/icons?i=figma" alt="UI UX"/>
 
 </p>
 
-### 🔧 Tools & Workflow
+## 🔧 Tools & Workflow
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino" alt="Development Tools"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,arduino" alt="Tools"/>
 
 </p>
 
 ---
 
-# 🧩 What I Work With
+# 🧩 What I Build
 
 <table>
 <tr>
-<th>Area</th>
-<th>Technologies & Skills</th>
+
+<td width="50%" valign="top">
+
+### 🌐 Web Applications
+
+* Modern responsive websites
+* Business management systems
+* Database-driven applications
+* Role-based systems
+* Interactive interfaces
+* Full-stack applications
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📱 Mobile Applications
+
+* Android applications
+* Booking systems
+* SQLite applications
+* Authentication systems
+* Mobile-first interfaces
+* Service management apps
+
+</td>
+
 </tr>
 
 <tr>
-<td>🌐 Web Development</td>
-<td>HTML, CSS, JavaScript, ASP.NET, Node.js</td>
-</tr>
 
-<tr>
-<td>📱 Mobile Development</td>
-<td>Android Studio, Java, SQLite</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>🎨 UI/UX</td>
-<td>Figma, Responsive Design, Interaction Design</td>
-</tr>
+### 🎨 UI / UX
 
-<tr>
-<td>🗄️ Database</td>
-<td>MySQL, SQLite, LocalDB</td>
-</tr>
+* Landing pages
+* Responsive interfaces
+* Interaction design
+* Motion & animation
+* Visual hierarchy
+* Component-based design
 
-<tr>
-<td>⚙️ Backend</td>
-<td>C#, .NET, Node.js</td>
-</tr>
+</td>
 
-<tr>
-<td>🔌 IoT</td>
-<td>ESP32, Sensors, Arduino</td>
-</tr>
+<td width="50%" valign="top">
 
-<tr>
-<td>🧪 Development</td>
-<td>Git, GitHub, VS Code, Visual Studio</td>
-</tr>
+### 🔌 IoT & Systems
 
+* ESP32 applications
+* Sensor integration
+* Real-time monitoring
+* Safety systems
+* Hardware/software integration
+* Embedded solutions
+
+</td>
+
+</tr>
 </table>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🦺 SentinelX — Smart Safety Band
+## 🦺 SentinelX
 
-> **IoT-powered industrial worker safety system**
+### Smart Industrial Worker Safety Band
 
-A smart wearable safety solution designed to improve industrial worker safety through real-time monitoring and emergency detection.
+An IoT-powered wearable safety system designed to monitor industrial workers and provide emergency assistance.
 
-### Features
+**Core Features**
 
-* ❤️ Heart-rate monitoring
-* 🌡️ Temperature monitoring
-* 🆘 Emergency SOS alerts
-* 📍 GPS location tracking
-* 📳 Fall detection
-* 📡 GSM communication
-* 📱 Android mobile application
-* 🔌 ESP32-based hardware
+`❤️ Heart Rate` `🌡️ Temperature` `📳 Fall Detection`
 
-**Tech Stack**
+`🆘 SOS` `📍 GPS` `📡 GSM` `📱 Android`
+
+**Technology**
 
 `Java` `Android Studio` `ESP32` `Arduino` `SQLite` `IoT`
 
 ---
 
-## 🏨 Aurelia — Hospital Management System
+## 🏥 Aurelia
 
-> **Modern digital hospital management platform**
+### Hospital Management System
 
-A web-based hospital management system designed to bring multiple hospital services into one connected platform.
+A modern digital hospital management platform designed to bring multiple hospital services into a connected system.
 
-### Focus
+**Core Areas**
 
-* 👨‍⚕️ Patient management
-* 🏥 Hospital services
-* 📅 Appointment management
-* 💊 Medical information
-* 👤 User management
-* 🗄️ Database-driven architecture
-* 🎨 Modern medical UI/UX
+`👨‍⚕️ Patient Management` `📅 Appointments`
 
-**Tech Stack**
+`💊 Medical Information` `🏥 Services`
+
+`👤 User Management` `🗄️ Database Architecture`
+
+**Technology**
 
 `HTML` `CSS` `JavaScript` `C#` `ASP.NET` `Database`
 
 ---
 
-## 🛍️ Cozy Comfort
+## 🛋️ Cozy Comfort
 
-> **Manufacturer → Distributor → Seller → Customer ecosystem**
+### Manufacturing & Distribution Management System
 
-A complete business management application designed for a blanket manufacturing and distribution workflow.
-
-### System Flow
+A multi-role business management application connecting the complete manufacturing and distribution workflow.
 
 ```text
-Manufacturer
-      │
-      ▼
-Distributor
-      │
-      ▼
-Seller
-      │
-      ▼
-Customer
+┌──────────────┐
+│ Manufacturer │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│ Distributor  │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│    Seller    │
+└──────┬───────┘
+       │
+       ▼
+┌──────────────┐
+│   Customer   │
+└──────────────┘
 ```
 
-The system manages inventory, orders, restocking, users, and role-based workflows.
+**Handles**
 
-**Tech Stack**
+* Authentication & roles
+* Inventory management
+* Customer orders
+* Restocking
+* Distribution workflow
+* Database operations
 
-`ASP.NET` `C#` `Entity Framework` `SQL` `LocalDB`
+**Technology**
+
+`C#` `ASP.NET` `Entity Framework` `SQL` `LocalDB`
 
 ---
 
 ## 🏝️ LuxeVista Resort
 
-> **Android resort booking & management application**
+### Android Resort Booking Application
 
-A mobile application designed for hotel/resort customers to explore rooms, make bookings, view services, offers, and manage their profiles.
+A mobile resort experience for browsing rooms, making bookings, viewing services, offers, and managing customer profiles.
 
-### Includes
+**Features**
 
-* 🏨 Room browsing
-* 📅 Booking management
-* 🧾 Booking history
-* 🛎️ Resort services
-* 🎁 Offers
-* 👤 Profile management
-* 🔐 Authentication
+`🏨 Rooms` `📅 Bookings` `🧾 History`
 
-**Tech Stack**
+`🛎️ Services` `🎁 Offers` `👤 Profile`
+
+**Technology**
 
 `Java` `Android Studio` `SQLite` `Material Design`
 
 ---
 
-# 🎨 My Design Philosophy
+# 🎨 Design Philosophy
 
-I believe great software isn't only about functionality.
+> **Great software isn't only about functionality. It's about experience.**
 
-It's about **how people experience it**.
+My design process:
 
 ```text
-              💡 IDEA
+             💡 IDEA
                 │
                 ▼
         ┌───────────────┐
@@ -345,192 +415,176 @@ It's about **how people experience it**.
                 │
                 ▼
         ┌───────────────┐
-        │    PRODUCT    │
+        │     SHIP      │
         └───────────────┘
 ```
 
-### ✨ Design Priorities
-
-* Minimal but impactful interfaces
-* Responsive layouts
-* Smooth interactions
-* Strong visual hierarchy
-* Consistent typography
-* Meaningful animations
-* Clean component structure
-* User-focused experiences
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sadev-Pahasara&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" height="180" alt="GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadev-Pahasara&layout=compact&hide_border=true&theme=transparent&langs_count=8" height="180" alt="Top Languages"/>
-
-</div>
-
----
-
-# 🔥 GitHub Activity
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center" width="220">
-
-<h2>300+</h2>
-
-<b>Commits</b>
-
-</td>
-
-<td align="center" width="220">
-
-<h2>175+</h2>
-
-<b>Contributions</b>
-
-<br>
-
-<sub>Last Year</sub>
-
-</td>
-
-<td align="center" width="220">
-
-<h2>🚀</h2>
-
-<b>Projects</b>
-
-</td>
-
-<td align="center" width="220">
-
-<h2>🇱🇰</h2>
-
-<b>Sri Lanka</b>
-
-</td>
-
-</tr>
-</table>
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Sadev-Pahasara&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak"/>
-
-</div>
-
----
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<table>
-<tr>
-
-<td align="center">
-
-### 💻
-
-**300+**
-
-Commits
-
-</td>
-
-<td align="center">
-
-### 📈
-
-**175+**
-
-Contributions
-
-</td>
-
-<td align="center">
-
-### 🛠️
-
-**Multiple**
-
-Projects
-
-</td>
-
-<td align="center">
-
-### 🌱
-
-**Always**
-
-Learning
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
----
-
-# 📌 Development Journey
+### ✦ Design Principles
 
 ```text
-              2024
-                │
-                ▼
-        🌱 Started Building
-                │
-                ▼
-              2025
-                │
-                ▼
-        💻 Full Stack Projects
-                │
-                ▼
-              2026
-                │
-                ▼
-        🚀 Advanced Projects
-                │
-                ▼
-             NEXT...
-                │
-                ▼
-        🌎 Build Something
-           Meaningful
+Minimal
+Responsive
+Interactive
+Accessible
+Consistent
+Purposeful
 ```
+
+I especially enjoy combining **clean interfaces with subtle motion**, rather than adding animation simply for decoration.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Sadev-Pahasara&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadev-Pahasara&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages"/>
+
+<br><br>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Sadev-Pahasara&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Sadev-Pahasara/Sadev-Pahasara/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# 🧭 Development Journey
+
+<div align="center">
+
+```text
+                         2024
+                          │
+                          ▼
+                  🌱 STARTED BUILDING
+                          │
+                          ▼
+                         2025
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+          💻 WEB       📱 MOBILE     🎨 UI/UX
+             │            │            │
+             └────────────┼────────────┘
+                          │
+                          ▼
+                         2026
+                          │
+             ┌────────────┼────────────┐
+             ▼            ▼            ▼
+          🚀 ADVANCED   🔌 IoT       🗄️ SYSTEMS
+             │            │            │
+             └────────────┼────────────┘
+                          │
+                          ▼
+                         NEXT
+                          │
+                          ▼
+                 🌎 BUILD SOMETHING
+                    MEANINGFUL
+```
+
+</div>
 
 ---
 
 # 💡 Things I Enjoy Building
 
-<div align="center">
+<table>
+<tr>
 
-|     💻 Web Apps    |    📱 Mobile Apps    |
-| :----------------: | :------------------: |
-|   Modern Websites  | Android Applications |
-|  Business Systems  |    Booking Systems   |
-| Management Systems |     Mobile UI/UX     |
-| Portfolio Websites |  SQLite Applications |
+<td align="center" width="25%">
 
-|        🎨 UI/UX        |        ⚙️ Systems       |
-| :--------------------: | :---------------------: |
-|      Landing Pages     |     Database Systems    |
-|  Responsive Interfaces |    Role-Based Systems   |
-|       Animations       |      IoT Solutions      |
-| Interactive Components | Full Stack Applications |
+### 💻
 
-</div>
+**WEB**
+
+Modern Websites
+
+Business Systems
+
+Management Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 📱
+
+**MOBILE**
+
+Android Apps
+
+Booking Systems
+
+Mobile UI/UX
+
+</td>
+
+<td align="center" width="25%">
+
+### 🎨
+
+**DESIGN**
+
+Landing Pages
+
+Responsive UI
+
+Animations
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚙️
+
+**SYSTEMS**
+
+Databases
+
+Role-Based Apps
+
+IoT Solutions
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌱 Always Learning
+
+```text
+┌────────────────────────────────────────────────────────┐
+│                                                        │
+│  💻 Better Software Architecture                       │
+│                                                        │
+│  🎨 Advanced UI / UX                                   │
+│                                                        │
+│  ⚙️ Scalable Application Development                   │
+│                                                        │
+│  🗄️ Database Design                                    │
+│                                                        │
+│  🔌 IoT & Hardware Integration                         │
+│                                                        │
+│  🚀 Modern Development Practices                       │
+│                                                        │
+└────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -540,15 +594,13 @@ Learning
 
 <a href="https://github.com/Sadev-Pahasara">
 
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 
 </a>
 
- 
-
 <a href="https://www.linkedin.com/">
 
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-161616?style=for-the-badge&logo=linkedin&logoColor=76F4FF" alt="LinkedIn"/>
 
 </a>
 
@@ -558,23 +610,7 @@ Learning
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=18&duration=3000&pause=1000&color=76F4FF&center=true&vCenter=true&width=650&lines=Let's+build+something+legendary.;Design.+Develop.+Deploy.;Ideas+deserve+great+execution.;Always+learning.+Always+building." alt="Let's Build"/>
-
-</div>
-
----
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=TOTAL%20PROFILE%20VIEWS&color=76f4ff&style=for-the-badge" alt="Total Profile Views"/>
-
-<br><br>
-
-### Thanks for visiting my profile! 🚀
-
-<sub>Feel free to explore my repositories and projects.</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Raleway&weight=600&size=18&duration=3000&pause=900&color=76F4FF&center=true&vCenter=true&width=650&lines=Design.+Develop.+Deploy.;Ideas+deserve+great+execution.;Always+learning.+Always+building.;Let's+build+something+meaningful." alt="Closing Message"/>
 
 </div>
 
@@ -582,12 +618,12 @@ Learning
 
 <div align="center">
 
-### ✦ Sadev Pahasara ✦
+### ✦ SADEV PAHASARA ✦
 
 **Full Stack Developer • UI/UX Designer • Software Engineering Student**
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:76f4ff,50:161616,100:0f0f0f&height=120&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:76F4FF,50:161616,100:050505&height=130&section=footer" width="100%" alt="Footer"/>
 
 </div>
