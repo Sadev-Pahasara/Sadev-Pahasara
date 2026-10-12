@@ -1,7 +1,5 @@
 <!-- ========================================================= -->
-
 <!--                         HERO                              -->
-
 <!-- ========================================================= -->
 
 <div align="center">
@@ -33,14 +31,12 @@
 ---
 
 <!-- ========================================================= -->
-
 <!--                         INTRO                             -->
-
 <!-- ========================================================= -->
 
 ## 👋 Hey, I'm Sadev
 
-I'm a **Full Stack Developer, UI/UX Designer & Game Developer from Sri Lanka 🇱🇰**, currently studying Software Engineering and building digital experiences across **web, mobile, games, and IoT**.
+I'm a **Full Stack Developer, UI/UX Designer & Game Developer from Sri Lanka 🇱🇰**, currently studying Software Engineering and building digital experiences across **web, mobile, games, AI, and IoT**.
 
 I enjoy taking an idea from:
 
@@ -66,9 +62,13 @@ I enjoy taking an idea from:
                   🚀 REAL PRODUCT
 ```
 
-Whether it's a website, mobile application, game, or connected system, I enjoy working across the entire development process.
+Whether it's a website, mobile application, AI-powered tool, game, or connected system, I enjoy working across the entire development process.
 
 ---
+
+<!-- ========================================================= -->
+<!--                        ABOUT ME                           -->
+<!-- ========================================================= -->
 
 # 🧑‍💻 About Me
 
@@ -89,6 +89,7 @@ Whether it's a website, mobile application, game, or connected system, I enjoy w
 * 📱 Web & Mobile Development
 * 🎮 Game Development
 * 🔌 Exploring IoT Systems
+* 🤖 Exploring AI Integration
 
 </td>
 
@@ -107,6 +108,8 @@ Creative Experiences
        +
 Strong Architecture
        +
+Intelligent Applications
+       +
 Real-World Problems
 ```
 
@@ -119,6 +122,10 @@ I enjoy understanding the **whole development process**, rather than focusing on
 
 ---
 
+<!-- ========================================================= -->
+<!--                        CURRENTLY                          -->
+<!-- ========================================================= -->
+
 # ⚡ Currently
 
 <div align="center">
@@ -126,7 +133,7 @@ I enjoy understanding the **whole development process**, rather than focusing on
 <table>
 <tr>
 
-<td align="center" width="220">
+<td align="center" width="200">
 
 ### 💻
 
@@ -136,7 +143,7 @@ Modern Web Applications
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="200">
 
 ### 📱
 
@@ -146,7 +153,17 @@ Android Applications
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="200">
+
+### 🤖
+
+**EXPLORING**
+
+AI & Local LLMs
+
+</td>
+
+<td align="center" width="200">
 
 ### 🎮
 
@@ -156,7 +173,7 @@ Game Experiences
 
 </td>
 
-<td align="center" width="220">
+<td align="center" width="200">
 
 ### 🎨
 
@@ -172,6 +189,10 @@ Better Experiences
 </div>
 
 ---
+
+<!-- ========================================================= -->
+<!--                       TECH ARSENAL                        -->
+<!-- ========================================================= -->
 
 # 🛠️ Tech Arsenal
 
@@ -223,6 +244,16 @@ Better Experiences
 
 </p>
 
+## 🤖 AI & Intelligent Systems
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Ollama-101010?style=for-the-badge&logo=ollama&logoColor=76F4FF" alt="Ollama"/>
+
+<img src="https://img.shields.io/badge/AI%20Integration-101010?style=for-the-badge&logo=openai&logoColor=76F4FF" alt="AI Integration"/>
+
+</p>
+
 ## 🔧 Tools & Workflow
 
 <p align="left">
@@ -232,6 +263,10 @@ Better Experiences
 </p>
 
 ---
+
+<!-- ========================================================= -->
+<!--                       WHAT I BUILD                        -->
+<!-- ========================================================= -->
 
 # 🧩 What I Build
 
@@ -325,11 +360,73 @@ Better Experiences
 </td>
 
 </tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Intelligent Applications
+
+* AI assistant development
+* Language model integration
+* Local AI exploration
+* API-based AI functionality
+* Application and AI integration
+* Intelligent software experiences
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Application Engineering
+
+* Software architecture
+* Modular application design
+* Workflow automation
+* System integration
+* Error handling
+* Maintainable code
+
+</td>
+
+</tr>
 </table>
 
 ---
 
+<!-- ========================================================= -->
+<!--                     FEATURED PROJECTS                     -->
+<!-- ========================================================= -->
+
 # 🚀 Featured Projects
+
+## 🤖 ORION
+
+### Personal AI Assistant
+
+An AI assistant project focused on bringing intelligent assistance and application integration into one unified experience. ORION explores AI model connectivity, extensibility, and the possibility of running language models locally.
+
+**Core Areas**
+
+`🤖 AI Assistance` `🧠 Language Models`
+
+`⚙️ Application Integration` `💻 Local AI`
+
+**Technology & Tools**
+
+`JavaScript` `AI APIs` `Ollama` `Local LLMs` `API Integration`
+
+**Development Focus**
+
+* Integrating AI capabilities into the existing application
+* Exploring local language models using Ollama
+* Investigating alternatives to external AI API usage
+* Improving flexibility in model selection and integration
+* Exploring a more independent and extensible AI architecture
+
+> ORION is an evolving project. Local model integration and other capabilities depend on implementation progress.
+
+---
 
 ## 🦺 SentinelX
 
@@ -353,13 +450,13 @@ An IoT-powered wearable safety system designed to monitor industrial workers and
 
 ### Hospital Management System
 
-A modern digital hospital management platform designed to bring multiple hospital services into a connected system.
+A modern digital hospital management platform designed to bring multiple hospital services into a connected system, with a focus on accessible patient information and streamlined hospital workflows.
 
 **Core Areas**
 
 `👨‍⚕️ Patient Management` `📅 Appointments`
 
-`💊 Medical Information` `🏥 Services`
+`💊 Medical Information` `🏥 Hospital Services`
 
 `👤 User Management` `🗄️ Database Architecture`
 
@@ -415,7 +512,7 @@ A multi-role business management application connecting the complete manufacturi
 
 ### Android Resort Booking Application
 
-A mobile resort experience for browsing rooms, making bookings, viewing services, offers, and managing customer profiles.
+A mobile resort experience for browsing rooms, making bookings, viewing services, exploring offers, and managing customer profiles.
 
 **Features**
 
@@ -428,6 +525,10 @@ A mobile resort experience for browsing rooms, making bookings, viewing services
 `Java` `Android Studio` `SQLite` `Material Design`
 
 ---
+
+<!-- ========================================================= -->
+<!--                     DESIGN PHILOSOPHY                     -->
+<!-- ========================================================= -->
 
 # 🎨 Design Philosophy
 
@@ -470,6 +571,10 @@ I especially enjoy combining **clean interfaces with subtle motion**, rather tha
 
 ---
 
+<!-- ========================================================= -->
+<!--                    GITHUB ANALYTICS                       -->
+<!-- ========================================================= -->
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -486,6 +591,10 @@ I especially enjoy combining **clean interfaces with subtle motion**, rather tha
 
 ---
 
+<!-- ========================================================= -->
+<!--                  CONTRIBUTION ACTIVITY                    -->
+<!-- ========================================================= -->
+
 # 🐍 Contribution Activity
 
 <div align="center">
@@ -495,6 +604,10 @@ I especially enjoy combining **clean interfaces with subtle motion**, rather tha
 </div>
 
 ---
+
+<!-- ========================================================= -->
+<!--                   DEVELOPMENT JOURNEY                     -->
+<!-- ========================================================= -->
 
 # 🧭 Development Journey
 
@@ -518,11 +631,11 @@ I especially enjoy combining **clean interfaces with subtle motion**, rather tha
                           ▼
                          2026
                           │
-             ┌────────────┼────────────┐
-             ▼            ▼            ▼
-          🚀 ADVANCED   🎮 GAMES      🔌 IoT
-             │            │            │
-             └────────────┼────────────┘
+          ┌───────────────┼───────────────┐
+          ▼               ▼               ▼
+       🚀 ADVANCED      🤖 AI            🔌 IoT
+          │               │               │
+          └───────────────┼───────────────┘
                           │
                           ▼
                          NEXT
@@ -535,6 +648,10 @@ I especially enjoy combining **clean interfaces with subtle motion**, rather tha
 </div>
 
 ---
+
+<!-- ========================================================= -->
+<!--                    THINGS I ENJOY                         -->
+<!-- ========================================================= -->
 
 # 💡 Things I Enjoy Building
 
@@ -602,6 +719,10 @@ Animations
 
 ---
 
+<!-- ========================================================= -->
+<!--                     ALWAYS LEARNING                       -->
+<!-- ========================================================= -->
+
 # 🌱 Always Learning
 
 <div align="center">
@@ -614,6 +735,8 @@ Animations
 │  🎨 Advanced UI / UX                              │
 │                                                    │
 │  🎮 Game Development                              │
+│                                                    │
+│  🤖 AI & Local Language Models                    │
 │                                                    │
 │  ⚙️ Scalable Application Development             │
 │                                                    │
@@ -629,6 +752,10 @@ Animations
 </div>
 
 ---
+
+<!-- ========================================================= -->
+<!--                       CONTACT                             -->
+<!-- ========================================================= -->
 
 # 🌐 Let's Connect
 
