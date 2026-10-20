@@ -1,27 +1,27 @@
-
 <!-- ===================================================== -->
 <!--                    SADEV PAHASARA                     -->
+<!--               WARM EDITORIAL EDITION                   -->
 <!-- ===================================================== -->
 
 <div align="center">
 
 <a href="https://github.com/Sadev-Pahasara">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,55:111820,100:76F4FF&height=240&section=header&text=SADEV%20PAHASARA&fontSize=56&fontColor=FFFFFF&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20UI%2FUX%20DESIGNER%20%20%E2%80%A2%20%20GAME%20DEVELOPER&descAlignY=60&descSize=13&animation=fadeIn" alt="Sadev Pahasara"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2A1A0E,50:6B3216,100:D4621A&height=250&section=header&text=SADEV%20PAHASARA&fontSize=56&fontColor=FEF3E2&fontAlignY=38&desc=FULL%20STACK%20DEVELOPER%20%20%E2%80%A2%20%20UI%2FUX%20DESIGNER%20%20%E2%80%A2%20%20GAME%20DEVELOPER&descAlignY=60&descSize=13&animation=fadeIn" alt="Sadev Pahasara"/>
 </a>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=76F4FF&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;UI%2FUX+Designer;Game+Developer;Software+Engineering+Student;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Applications" alt="Introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=F4AE52&center=true&vCenter=true&width=760&lines=Full+Stack+Developer;UI%2FUX+Designer;Game+Developer;Software+Engineering+Student;Building+Modern+Digital+Experiences;Turning+Ideas+Into+Real+Applications" alt="Introduction"/>
 
 <br><br>
 
 <a href="https://github.com/Sadev-Pahasara">
-  <img src="https://img.shields.io/badge/GITHUB-101010?style=for-the-badge&logo=github&logoColor=76F4FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-2A1A0E?style=for-the-badge&logo=github&logoColor=F4AE52" alt="GitHub"/>
 </a>
 <a href="https://github.com/Sadev-Pahasara?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-101010?style=for-the-badge&logo=github&logoColor=76F4FF" alt="Projects"/>
+  <img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-D4621A?style=for-the-badge&logo=github&logoColor=FEF3E2" alt="Projects"/>
 </a>
-<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=PROFILE%20VIEWS&color=76F4FF&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Sadev-Pahasara&label=PROFILE%20VIEWS&color=D4621A&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
 
@@ -213,8 +213,8 @@ Better Experiences
 ### AI & Intelligent Systems
 
 <p>
-<img src="https://img.shields.io/badge/Ollama-101010?style=for-the-badge&logo=ollama&logoColor=76F4FF" alt="Ollama"/>
-<img src="https://img.shields.io/badge/AI%20Integration-101010?style=for-the-badge&logo=openai&logoColor=76F4FF" alt="AI Integration"/>
+<img src="https://img.shields.io/badge/Ollama-2A1A0E?style=for-the-badge&logo=ollama&logoColor=F4AE52" alt="Ollama"/>
+<img src="https://img.shields.io/badge/AI%20Integration-D4621A?style=for-the-badge&logo=openai&logoColor=FEF3E2" alt="AI Integration"/>
 </p>
 
 ### Tools & Workflow
@@ -344,15 +344,15 @@ Better Experiences
 
 </div>
 
-### 01 / ORION
+### `01 / ORION`
 
 **Personal AI Assistant**
 
 An AI assistant project focused on bringing intelligent assistance and application integration into one unified experience. ORION explores AI model connectivity, extensibility, and the possibility of running language models locally.
 
 | Core Areas | Technologies |
-|---|---|
-| AI assistance | JavaScript |
+|:---|:---|
+| AI assistance | Python |
 | Language models | AI APIs |
 | Application integration | Ollama |
 | Local AI exploration | Local LLMs and API integration |
@@ -369,7 +369,7 @@ An AI assistant project focused on bringing intelligent assistance and applicati
 
 ---
 
-### 02 / SentinelX
+### `02 / SENTINELX`
 
 **Smart Industrial Worker Safety Band**
 
@@ -383,7 +383,7 @@ An IoT-powered wearable safety system designed to monitor industrial workers and
 
 ---
 
-### 03 / Aurelia
+### `03 / AURELIA`
 
 **Hospital Management System**
 
@@ -404,7 +404,7 @@ A modern digital hospital management platform designed to bring multiple hospita
 
 ---
 
-### 04 / Cozy Comfort
+### `04 / COZY COMFORT`
 
 **Manufacturing & Distribution Management System**
 
@@ -447,7 +447,7 @@ A multi-role business management application connecting the complete manufacturi
 
 ---
 
-### 05 / LuxeVista Resort
+### `05 / LUXEVISTA RESORT`
 
 **Android Resort Booking Application**
 
@@ -470,6 +470,13 @@ A mobile resort experience for browsing rooms, making bookings, viewing services
 ### Great software isn't only about functionality.
 
 ### It's about experience.
+
+<br>
+
+<img src="https://img.shields.io/badge/01-MINIMAL-2A1A0E?style=for-the-badge&labelColor=D4621A" alt="Minimal"/>
+<img src="https://img.shields.io/badge/02-RESPONSIVE-2A1A0E?style=for-the-badge&labelColor=D4621A" alt="Responsive"/>
+<img src="https://img.shields.io/badge/03-INTERACTIVE-2A1A0E?style=for-the-badge&labelColor=D4621A" alt="Interactive"/>
+<img src="https://img.shields.io/badge/04-PURPOSEFUL-2A1A0E?style=for-the-badge&labelColor=D4621A" alt="Purposeful"/>
 
 </div>
 
@@ -506,13 +513,13 @@ Animation should enhance an experience, not distract from its purpose.
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sadev-Pahasara&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Sadev-Pahasara&show_icons=true&hide_border=true&bg_color=2A1A0E&title_color=F4AE52&text_color=FEF3E2&icon_color=D4621A&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Statistics"/>
 
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadev-Pahasara&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Top Languages"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sadev-Pahasara&layout=compact&hide_border=true&bg_color=2A1A0E&title_color=F4AE52&text_color=FEF3E2&icon_color=D4621A&langs_count=8" alt="Top Languages"/>
 
 <br><br>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=Sadev-Pahasara&theme=transparent&hide_border=true&mode=weekly" alt="GitHub Contribution Streak"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=Sadev-Pahasara&background=2A1A0E&ring=F4AE52&fire=D4621A&currStreakLabel=F4AE52&sideLabels=FEF3E2&currStreakNum=FEF3E2&sideNums=FEF3E2&dates=F4AE52&hide_border=true&mode=weekly" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -673,15 +680,15 @@ I'm always interested in learning, building, and exploring new ideas.
 <br>
 
 <a href="https://github.com/Sadev-Pahasara">
-  <img src="https://img.shields.io/badge/GitHub-101010?style=for-the-badge&logo=github&logoColor=76F4FF" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-2A1A0E?style=for-the-badge&logo=github&logoColor=F4AE52" alt="GitHub"/>
 </a>
 <a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=76F4FF" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-D4621A?style=for-the-badge&logo=linkedin&logoColor=FEF3E2" alt="LinkedIn"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=76F4FF&center=true&vCenter=true&width=700&lines=Design.+Develop.+Create.;Ideas+deserve+great+execution.;Always+learning.+Always+building.;Let's+build+something+meaningful." alt="Closing Message"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=900&color=F4AE52&center=true&vCenter=true&width=700&lines=Design.+Develop.+Create.;Ideas+deserve+great+execution.;Always+learning.+Always+building.;Let's+build+something+meaningful." alt="Closing Message"/>
 
 <br>
 
@@ -691,6 +698,6 @@ I'm always interested in learning, building, and exploring new ideas.
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:76F4FF,50:161616,100:050505&height=130&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:D4621A,50:6B3216,100:2A1A0E&height=140&section=footer" alt="Footer"/>
 
 </div>
